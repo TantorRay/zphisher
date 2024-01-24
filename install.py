@@ -1,0 +1,1 @@
+bash zphisher.sh
