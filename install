@@ -1,5 +1,3 @@
-bash .zphisher.sh
-exit
 cd
 clear
 pkg install tur-repo
